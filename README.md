@@ -1,11 +1,14 @@
 # Patterns
 
-A collection of classic programming patterns built with JavaScript.
+A collection of programming patterns with visual previews, simple logic explanations, and JavaScript implementations.
 
-Patterns covers the basic star, hollow, number, alphabet, and special patterns commonly introduced when learning programming. Each pattern includes a visual preview, a brief explanation of its logic, and the corresponding JavaScript code.
+## Features
 
-**Live Demo:** [patterns-azure.vercel.app](https://patterns-azure.vercel.app/)
+- Explore star, hollow, number, alphabet, and special patterns.
+- Visual previews of each pattern.
+- Simple logic explanations.
+- JavaScript code examples.
 
----
+## Live Demo
 
-*Built with ❤️ by **Sreya***
+[https://patterns-azure.vercel.app/](https://patterns-azure.vercel.app/)
